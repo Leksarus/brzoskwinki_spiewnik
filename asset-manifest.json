@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/brzoskwinki_spiewnik/static/css/main.0f903260.chunk.css",
-    "main.js": "/brzoskwinki_spiewnik/static/js/main.afa55c08.chunk.js",
-    "main.js.map": "/brzoskwinki_spiewnik/static/js/main.afa55c08.chunk.js.map",
+    "main.js": "/brzoskwinki_spiewnik/static/js/main.0030d277.chunk.js",
+    "main.js.map": "/brzoskwinki_spiewnik/static/js/main.0030d277.chunk.js.map",
     "runtime-main.js": "/brzoskwinki_spiewnik/static/js/runtime-main.b13b7a71.js",
     "runtime-main.js.map": "/brzoskwinki_spiewnik/static/js/runtime-main.b13b7a71.js.map",
-    "static/css/2.f10f0697.chunk.css": "/brzoskwinki_spiewnik/static/css/2.f10f0697.chunk.css",
-    "static/js/2.1e4c50d7.chunk.js": "/brzoskwinki_spiewnik/static/js/2.1e4c50d7.chunk.js",
-    "static/js/2.1e4c50d7.chunk.js.map": "/brzoskwinki_spiewnik/static/js/2.1e4c50d7.chunk.js.map",
+    "static/css/2.65c98be6.chunk.css": "/brzoskwinki_spiewnik/static/css/2.65c98be6.chunk.css",
+    "static/js/2.3f790247.chunk.js": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js",
+    "static/js/2.3f790247.chunk.js.map": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js.map",
     "index.html": "/brzoskwinki_spiewnik/index.html",
-    "precache-manifest.5c61d67d66d9cd0a280eb71cc49a1ea0.js": "/brzoskwinki_spiewnik/precache-manifest.5c61d67d66d9cd0a280eb71cc49a1ea0.js",
+    "precache-manifest.e00fcb78c47ace41087192083d0a88a2.js": "/brzoskwinki_spiewnik/precache-manifest.e00fcb78c47ace41087192083d0a88a2.js",
     "service-worker.js": "/brzoskwinki_spiewnik/service-worker.js",
-    "static/css/2.f10f0697.chunk.css.map": "/brzoskwinki_spiewnik/static/css/2.f10f0697.chunk.css.map",
+    "static/css/2.65c98be6.chunk.css.map": "/brzoskwinki_spiewnik/static/css/2.65c98be6.chunk.css.map",
     "static/css/main.0f903260.chunk.css.map": "/brzoskwinki_spiewnik/static/css/main.0f903260.chunk.css.map",
-    "static/js/2.1e4c50d7.chunk.js.LICENSE.txt": "/brzoskwinki_spiewnik/static/js/2.1e4c50d7.chunk.js.LICENSE.txt",
-    "static/media/logo2.png": "/brzoskwinki_spiewnik/static/media/logo2.d94f6581.png",
-    "static/media/index.css": "/brzoskwinki_spiewnik/static/media/patrick-hand-sc-latin-400.37b1353c.woff2"
+    "static/js/2.3f790247.chunk.js.LICENSE.txt": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/brzoskwinki_spiewnik/static/media/lato-latin-900italic.bd86aaa7.woff2",
+    "static/media/logo2.png": "/brzoskwinki_spiewnik/static/media/logo2.d94f6581.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b13b7a71.js",
-    "static/css/2.f10f0697.chunk.css",
-    "static/js/2.1e4c50d7.chunk.js",
+    "static/css/2.65c98be6.chunk.css",
+    "static/js/2.3f790247.chunk.js",
     "static/css/main.0f903260.chunk.css",
-    "static/js/main.afa55c08.chunk.js"
+    "static/js/main.0030d277.chunk.js"
   ]
 }
