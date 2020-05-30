@@ -45,8 +45,8 @@ const StyledButton = styled.button`
 export default () => {
   const {fontSize, setFontSize} = useContext(FontSizeContext)
 
-  const increase = useCallback(() => {setFontSize(fontSize + 1)}, [fontSize])
-  const decrease = useCallback(() => {setFontSize(fontSize - 1)}, [fontSize])
+  const increase = useCallback(() => fontSize < 30 && setFontSize(fontSize + 1), [fontSize])
+  const decrease = useCallback(() => fontSize > 8 && setFontSize(fontSize - 1), [fontSize])
 
   return (
     <HeaderStyled >
