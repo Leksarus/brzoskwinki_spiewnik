@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/brzoskwinki_spiewnik/static/css/main.0f903260.chunk.css",
-    "main.js": "/brzoskwinki_spiewnik/static/js/main.0030d277.chunk.js",
-    "main.js.map": "/brzoskwinki_spiewnik/static/js/main.0030d277.chunk.js.map",
+    "main.js": "/brzoskwinki_spiewnik/static/js/main.3f1247f1.chunk.js",
+    "main.js.map": "/brzoskwinki_spiewnik/static/js/main.3f1247f1.chunk.js.map",
     "runtime-main.js": "/brzoskwinki_spiewnik/static/js/runtime-main.b13b7a71.js",
     "runtime-main.js.map": "/brzoskwinki_spiewnik/static/js/runtime-main.b13b7a71.js.map",
     "static/css/2.65c98be6.chunk.css": "/brzoskwinki_spiewnik/static/css/2.65c98be6.chunk.css",
     "static/js/2.3f790247.chunk.js": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js",
     "static/js/2.3f790247.chunk.js.map": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js.map",
     "index.html": "/brzoskwinki_spiewnik/index.html",
-    "precache-manifest.e00fcb78c47ace41087192083d0a88a2.js": "/brzoskwinki_spiewnik/precache-manifest.e00fcb78c47ace41087192083d0a88a2.js",
+    "precache-manifest.d485eb90c206c268fb96ff42648f4320.js": "/brzoskwinki_spiewnik/precache-manifest.d485eb90c206c268fb96ff42648f4320.js",
     "service-worker.js": "/brzoskwinki_spiewnik/service-worker.js",
     "static/css/2.65c98be6.chunk.css.map": "/brzoskwinki_spiewnik/static/css/2.65c98be6.chunk.css.map",
     "static/css/main.0f903260.chunk.css.map": "/brzoskwinki_spiewnik/static/css/main.0f903260.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.65c98be6.chunk.css",
     "static/js/2.3f790247.chunk.js",
     "static/css/main.0f903260.chunk.css",
-    "static/js/main.0030d277.chunk.js"
+    "static/js/main.3f1247f1.chunk.js"
   ]
 }
