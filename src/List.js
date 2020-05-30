@@ -3,7 +3,6 @@ import styled, { css } from 'styled-components'
 import { Flex, Box } from 'reflexbox/styled-components'
 import texts from './config'
 import {
-  Link,
   NavLink
 } from "react-router-dom";
 

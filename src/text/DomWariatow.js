@@ -17,10 +17,12 @@ export default () => {
       Złemu fatum łeb ukręcę<br/>
     </p>
     <p>
-      Uciekam przed światem, szare życia to nie dla mnie<br/>
+      Uciekam przed światem, szare życi<b>E!!</b> to nie dla mnie<br/>
       Dom wariatów za mną, nie będą płakać bardzo<br/>
       Niemożliwe jest mym celem, to w nim znajdę ukojenie.<br/>
       Dom wariatów za mną, niech pochłonie ich to bagno<br/>
+    </p>
+    <p>
       Życia jeszcze kawał drogi, a przede mną świat szeroki,<br/>
       Stawiam cele nierealne – życie nie jest idealne<br/>
       Gdy osiągnę zamierzone, potem pójdę w drugą stronę<br/>
@@ -33,7 +35,7 @@ export default () => {
       Możesz więcej niż wariaci, musisz! tylko! chcieeeeć!<br/>
     </p>
     <p>
-    ... Uciekam przed światem, szare życia to nie dla mnie<br/>
+      Uciekam przed światem, szare życi<b>E!!</b> to nie dla mnie<br/>
       Dom wariatów za mną, nie będą płakać bardzo<br/>
       Niemożliwe jest mym celem, to w nim znajdę ukojenie.<br/>
       Dom wariatów za mną, niech pochłonie ich to bagno<br/>

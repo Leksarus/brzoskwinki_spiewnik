@@ -4,10 +4,6 @@ import { Flex, Box } from 'reflexbox/styled-components'
 import texts from './config'
 
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
   useParams
 } from "react-router-dom";
 
