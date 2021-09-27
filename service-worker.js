@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brzoskwinki_spiewnik/precache-manifest.d485eb90c206c268fb96ff42648f4320.js"
+  "/brzoskwinki_spiewnik/precache-manifest.9d0095a65fce19ddba2e390f7906b803.js"
 );
 
 self.addEventListener('message', (event) => {

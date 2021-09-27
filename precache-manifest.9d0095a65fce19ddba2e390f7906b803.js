@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0d8078fe10df0daf155cd0d5f3ab506",
+    "revision": "001d7f86922ff56b50823798f53f6664",
     "url": "/brzoskwinki_spiewnik/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brzoskwinki_spiewnik/static/css/2.65c98be6.chunk.css"
   },
   {
-    "revision": "1c52e379739866e2c90d",
+    "revision": "064928240086802a6b21",
     "url": "/brzoskwinki_spiewnik/static/css/main.0f903260.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brzoskwinki_spiewnik/static/js/2.3f790247.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c52e379739866e2c90d",
-    "url": "/brzoskwinki_spiewnik/static/js/main.3f1247f1.chunk.js"
+    "revision": "064928240086802a6b21",
+    "url": "/brzoskwinki_spiewnik/static/js/main.43352259.chunk.js"
   },
   {
     "revision": "549cbce12a4f6ed9fb68",
