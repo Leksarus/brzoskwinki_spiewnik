@@ -6,6 +6,7 @@ import Droga from './text/Droga'
 import Kostrzyn from './text/Kostrzyn'
 import Pogrzebany from './text/Pogrzebany'
 import Kierowca from './text/Kierowca'
+import Wilki from './text/WilkowWycie'
 
 const list = [
   {
@@ -39,7 +40,11 @@ const list = [
   {
     name: 'Kierowca bombowca',
     content: Kierowca
-  }
+  },
+  {
+    name: 'Wilków wycie',
+    content: Wilki
+  },
 ]
 
 export default list
