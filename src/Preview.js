@@ -1,6 +1,6 @@
 import React, { useMemo, useEffect } from 'react'
 import styled from 'styled-components'
-import { Flex, Box } from 'reflexbox/styled-components'
+import { Flex } from 'reflexbox/styled-components'
 import texts from './config'
 
 import {
