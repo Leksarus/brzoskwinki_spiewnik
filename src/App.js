@@ -23,7 +23,6 @@ function App() {
               <List />
             </Route>
           </Switch>
-          <List />
         </AppWrapper>
       </Router>
     </div>
