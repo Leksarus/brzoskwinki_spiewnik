@@ -15,14 +15,14 @@ function App() {
       <Router>
         <AppWrapper>
           <Header />
-            <Switch>
-              <Route path="/preview/:song">
-                <Preview />
-              </Route>
-              <Route exact path="/">
-                <List />
-              </Route>
-            </Switch>
+          <Switch>
+            <Route path="/preview/:title">
+              <Preview />
+            </Route>
+            <Route exact path="/">
+              <List />
+            </Route>
+          </Switch>
           <List />
         </AppWrapper>
       </Router>

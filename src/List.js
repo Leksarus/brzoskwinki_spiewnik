@@ -1,10 +1,10 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
 import { Flex, Box } from 'reflexbox/styled-components'
-import texts from './config'
 import {
   NavLink
-} from "react-router-dom";
+} from "react-router-dom"
+import titles from './songs/titles.json'
 
 const List = styled(Flex)`
   padding: 20px;
@@ -29,19 +29,22 @@ const Item = styled(Box)`
 `
 
 export default () => {
+  console.log(titles)
   return (
     <List>
-      {texts.map(el => (<Item key={el.name}>
-        <NavLink
-          to={`/preview/${el.name}`}
-          activeStyle={{
-            fontWeight: "bold",
-            color: "rgb(239, 37, 40)"
-          }}
-        >
-          {el.name}
-        </NavLink>
-      </Item>))}
+      {titles.map(title => (
+        <Item key={title}>
+          <NavLink
+            to={`/preview/${title}`}
+            activeStyle={{
+              fontWeight: "bold",
+              color: "rgb(239, 37, 40)"
+            }}
+          >
+            {title}
+          </NavLink>
+        </Item>
+      ))}
     </List>
   )
 }

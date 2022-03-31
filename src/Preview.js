@@ -1,7 +1,7 @@
-import React, { useMemo, useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { Flex } from 'reflexbox/styled-components'
-import texts from './config'
+import ReactMarkdown from 'react-markdown'
 
 import {
   useParams
@@ -13,9 +13,6 @@ const Wrapper = styled(Flex)`
   align-items: center;
   text-align: center;
 
-  h2 {
-    font-size: 1.5rem;
-  }
   p {
     font-size: 1.4rem;
     line-height: 3rem;
@@ -25,18 +22,23 @@ const Wrapper = styled(Flex)`
 `
 
 export default () => {
-  const { song } = useParams()
+  const [content, setContent] = useState('')
+  const { title } = useParams()
 
-  useEffect(() => {console.log(song)}, [song])
-
-  const Con = useMemo(() => {
-    return texts.find(({ name }) => name === song).content
-  }, [song])
+  useEffect(() => {
+    const fetchFile = async () => {
+      const f = await import(`./songs/content/${title.split(' ').join('-').toLowerCase()}.md`)
+      fetch(f.default).then(res => res.text()).then(tx => {
+        setContent(tx.split('---')[2])
+      })
+    }
+    fetchFile()
+  }, [title])
 
   return (
     <Wrapper>
-      <h2>{song}</h2>
-      <Con />
+      <h2>{title}</h2>
+      {content && <ReactMarkdown children={content}/>}
     </Wrapper>
   )
 }
