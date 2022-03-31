@@ -29,22 +29,23 @@ const Item = styled(Box)`
 `
 
 export default () => {
-  console.log(titles)
   return (
     <List>
-      {titles.map(title => (
-        <Item key={title}>
-          <NavLink
-            to={`/preview/${title}`}
-            activeStyle={{
-              fontWeight: "bold",
-              color: "rgb(239, 37, 40)"
-            }}
-          >
-            {title}
-          </NavLink>
-        </Item>
-      ))}
+      {Object.entries(titles).map(([slug, title]) => {
+        return (
+          <Item key={slug}>
+            <NavLink
+              to={`/preview/${slug}`}
+              activeStyle={{
+                fontWeight: "bold",
+                color: "rgb(239, 37, 40)"
+              }}
+            >
+              {title}
+            </NavLink>
+          </Item>
+        )
+      })}
     </List>
   )
 }

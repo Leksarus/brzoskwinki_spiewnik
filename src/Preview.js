@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { Flex } from 'reflexbox/styled-components'
 import ReactMarkdown from 'react-markdown'
+import titles from './songs/titles.json'
 
 import {
   useParams
@@ -27,7 +28,7 @@ export default () => {
 
   useEffect(() => {
     const fetchFile = async () => {
-      const f = await import(`./songs/content/${title.split(' ').join('-').toLowerCase()}.md`)
+      const f = await import(`./songs/content/${title.split(' ').join('-').toLowerCase()}`)
       fetch(f.default).then(res => res.text()).then(tx => {
         setContent(tx.split('---')[2])
       })
@@ -37,7 +38,7 @@ export default () => {
 
   return (
     <Wrapper>
-      <h2>{title}</h2>
+      <h2>{titles[title]}</h2>
       {content && <ReactMarkdown children={content}/>}
     </Wrapper>
   )
