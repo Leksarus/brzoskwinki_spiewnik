@@ -2,18 +2,134 @@
 title: Wilków wycie
 thumbnail: images/logopeach.png
 ---
-# Wiara ta kula ten łeb
+Wiara, ta spluwa, ta kula ten łeb
 
-## Z tego domu
+Prawda i tak dopadnie mnie
 
-### Nie tłumaczyć
+Zbrodnia tak wiel tak szybko mój gniew
 
-#### Nic nikomu
+Wilków wycie
 
-##### Mieć czas oczyścić myśli
+Wiara ta spluwa ta kula ten łeb
 
-###### Nim ich splot szaleństwo ziści
+Prawda i tak dopadnie mnie
 
-***asdasd***
+Zbrodnia tak wiele tak szybko mój gniew
 
-*asdasd*
+<br/>
+
+Zupełnie ciemną nocą
+
+Starego lasu szept
+
+Ciała okryte kocem
+
+Zabiłem je
+
+Kiedyś niewinne, ładne
+
+Dwie córki córki dwie
+
+Zawiązały pakt z diabłem
+
+Grzechu pychy nie przebaczam
+
+<br/>
+
+Wiara, ta spluwa, ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiel tak szybko mój gniew
+
+Wilków wycie
+
+Wiara ta spluwa ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiele tak szybko mój gniew
+
+<br/>
+
+Miarowo serce dudni
+
+Jaskrawy wstaje dzień
+
+Ciała ukryte w studni
+
+Zabiłem je
+
+Tak mądre opiekuńcze
+
+Dwie siostry siostry dwie
+
+Zwyczaje miały sucze
+
+Grzechu pychy nie przebaczam
+
+<br/>
+
+Wiara, ta spluwa, ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiel tak szybko mój gniew
+
+Wilków wycie
+
+Wiara ta spluwa ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiele tak szybko mój gniew
+
+<br/>
+
+Piętnastu żyć nie szkoda
+
+Dwóch nie szkoda, trzech nie szkoda
+
+Trzydziestu żyć nie szkoda
+
+Dwóch nie szkoda, trzech nie szkoda
+
+Dziewięciu żyć nie szkoda
+
+Dwóch nie szkoda trzech nie szkoda
+
+Siedmiuset żyć nie szkoda nie...
+
+<br/>
+
+Dwudziestu żyć nie szkoda
+
+Dwóch nie szkoda, trzech nie szkoda
+
+Trzynastu żyć nie szkoda
+
+Dwóch nie szkoda, trzech nie szkoda
+
+I trzystu żyć nie szkoda
+
+Dwóch nie szkoda trzech nie szkoda
+
+Miliona żyć nie szkoda nie!
+
+<br/>
+
+Wiara, ta spluwa, ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiel tak szybko mój gniew
+
+Wilków wycie
+
+Wiara ta spluwa ta kula ten łeb
+
+Prawda i tak dopadnie mnie
+
+Zbrodnia tak wiele tak szybko mój gniew
+
+Wilków wycie, wycie, wycie wilków
