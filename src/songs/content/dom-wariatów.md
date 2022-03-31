@@ -1,6 +1,5 @@
 ---
 title: Dom wariatów
-thumbnail: images/logopeach.png
 ---
 Ja chcę uciec z tego domu
 
@@ -26,8 +25,6 @@ wezme sprawy w swoje ręce
 
 Złemu fatum łeb ukręcę
 
-
-
 Uciekam przed światem, szare życi<b>E!!</b> to nie dla mnie
 
 Dom wariatów za mną, nie będą płakać bardzo
@@ -35,8 +32,6 @@ Dom wariatów za mną, nie będą płakać bardzo
 Niemożliwe jest mym celem, to w nim znajdę ukojenie.
 
 Dom wariatów za mną, niech pochłonie ich to bagno
-
-
 
 Życia jeszcze kawał drogi, a przede mną świat szeroki,
 
@@ -57,8 +52,6 @@ Nie zaiskrzy w ich umysłach myśl gotowa zmieniać wszystko
 Nie trwoń zatem myśli swoich, porównując siebie do nich
 
 Możesz więcej niż wariaci, musisz! tylko! chcieeeeć!
-
-
 
 Uciekam przed światem, szare życi<b>E!!</b> to nie dla mnie
 
